@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software tester
 ---------------
 
-* 🌍  I'm based in Chaingmai,Thailand
+* 🌍  I'm based in Chiangmai,Thailand
 * ✉️  You can contact me at [thephoo7@gmail.com](mailto:thephoo7@gmail.com)
 * 🤝  I'm open to collaborating on Software tester
 
