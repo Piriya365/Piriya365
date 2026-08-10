@@ -6,7 +6,7 @@ Software tester
 
 * 🌍  I'm based in Chiangmai,Thailand
 * ✉️  You can contact me at [thephoo7@gmail.com](mailto:thephoo7@gmail.com)
-* 🤝  I'm open to collaborating on Software tester
+* 🤝  I'm open to collaborating on Fullstack Developer
 
 ### Skills
 
