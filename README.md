@@ -1,93 +1,132 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/Hi.gif" width="30px">
-  Hi, I'm Piriya Inkhan 👋
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Fullstack Developer • AI Enthusiast • Software Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Piriya%20Inkhan&fontSize=55&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff&color=0:0f172a,50:1e293b,100:6366f1" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/piriya365">
-    <img src="https://img.shields.io/badge/GitHub-piriya365-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/piriya123">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/lilphxobaby">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:i.piriya2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piriya365&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Vue.js;Node.js+%7C+NestJS+%7C+Laravel;AI+%7C+RAG+%7C+Machine+Learning" />
 
----
+<br/><br/>
 
-## 👨‍💻 About Me
+<a href="https://github.com/piriya365">
+<img src="https://img.shields.io/badge/GitHub-piriya365-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:i.piriya2003@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/piriya123">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/lilphxobaby">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-I'm a **Fullstack Developer** from **Chiang Mai, Thailand 🇹🇭** who enjoys building modern web applications, backend systems, and AI-powered solutions.
+<br/><br/>
 
-* 💻 Fullstack Web Development
-* ⚛️ React / Next.js / Vue.js
-* 🎨 Tailwind CSS
-* 🏗️ Node.js / NestJS / Laravel / Django
-* 🤖 AI / Machine Learning / RAG
-* 🗄️ MongoDB / MySQL / Firebase
-* 🐳 Docker & Development Tools
-* 🚀 Always learning and experimenting with new technologies
+<img src="https://komarev.com/ghpvc/?username=piriya365&label=PROFILE%20VIEWS&color=6366f1&style=flat-square"/>
 
-> "Build it. Break it. Learn it. Improve it."
+</div>
 
 ---
 
-## 🧰 Tech Stack
+# 👋 About Me
 
-### 💻 Languages
+I'm **Piriya Inkhan**, a Fullstack Developer based in **Chiang Mai, Thailand 🇹🇭**.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,kotlin,c,cpp,cs" />
-</p>
+I enjoy turning ideas into practical software — from modern web applications and backend APIs to AI-powered systems and machine learning projects.
 
-### 🎨 Frontend
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   👨‍💻  Fullstack Developer                                  │
+│   🌐  Modern Web Applications                              │
+│   🤖  AI / Machine Learning                                │
+│   🧠  RAG / LLM / AI Evaluation                            │
+│   🗄️  Database & Backend Systems                           │
+│   🚀  Always Learning & Building                           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,vite,html,css" />
-</p>
+### 📍 Quick Facts
 
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,django" />
-</p>
-
-### 🗄️ Database & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### 🛠️ Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
-</p>
+* 🇹🇭 Based in **Chiang Mai, Thailand**
+* 💻 Focused on **Fullstack Development**
+* ⚛️ Building with **React, Next.js & Vue.js**
+* 🏗️ Backend experience with **Node.js, NestJS, Laravel & Django**
+* 🤖 Interested in **AI, RAG, LLM & Computer Vision**
+* 🧪 Enjoy experimenting with new technologies
+* 🤝 Open to **Fullstack Development Projects**
 
 ---
 
-## 🤖 AI & Machine Learning
+# ⚡ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
+## Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,vite,html,css&perline=8"/>
+
+</div>
+
+<br/>
+
+## Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,django,php&perline=8"/>
+
+</div>
+
+<br/>
+
+## Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,kotlin,c,cpp,cs&perline=9"/>
+
+</div>
+
+<br/>
+
+## Database & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=8"/>
+
+</div>
+
+<br/>
+
+## Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&perline=8"/>
+
+</div>
+
+---
+
+# 🤖 AI & Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,opencv&perline=6"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-LLM-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-Vector%20Search-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM--as--a--Judge-AI%20Evaluation-8B5CF6?style=for-the-badge"/>
+
+</div>
 
 ### 🧠 Areas of Interest
 
@@ -96,34 +135,78 @@ Artificial Intelligence
 Machine Learning
 Computer Vision
 Large Language Models
-RAG / Retrieval-Augmented Generation
-AI Evaluation
-LLM-as-a-Judge
+Retrieval-Augmented Generation
 Vector Search
+AI Agents
+LLM Evaluation
+LLM-as-a-Judge
 ```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🏢 Dormitory Management System
+## 🏢 Dormitory Management System
 
-**Django + Flutter + Firebase**
+> Fullstack management platform for dormitory operations.
 
-A full-stack dormitory management platform designed to manage rooms, payments, maintenance requests, notifications, and communication between residents and administrators.
+### Architecture
 
-**Tech:**
-`Django` `Flutter` `Firebase Firestore` `Python`
+```text
+Flutter Mobile App
+        │
+        ▼
+    Firebase
+        │
+        ▼
+Django Admin Web
+```
+
+### Features
+
+* 🏠 Room Management
+* 💰 Payment Management
+* 🔧 Maintenance Requests
+* 🔔 Notifications
+* 💬 Resident / Admin Chat
+* 📊 Management Dashboard
+* 🔐 Authentication & User Roles
+
+**Stack**
+
+`Django` `Python` `Flutter` `Firebase Firestore`
 
 ---
 
-### 🤖 AI Agent Comparison System
+## 🤖 AI Agent Comparison System
 
-**n8n + LLM + RAG + Vector Search**
+> AI benchmarking platform designed to compare multiple AI engines using the same workflow and knowledge base.
 
-An AI benchmarking system designed to compare multiple AI engines using the same questions, workflow, and knowledge base.
+### Pipeline
 
-**Evaluation Metrics:**
+```text
+User Question
+      │
+      ▼
+   n8n Workflow
+      │
+      ▼
+ Knowledge Base
+      │
+      ▼
+  Vector Search
+      │
+      ▼
+   AI Models
+      │
+      ▼
+ LLM Evaluation
+      │
+      ▼
+   Metrics
+```
+
+### Evaluation
 
 ```text
 Accuracy
@@ -138,96 +221,107 @@ Response Time
 Token Usage
 ```
 
-**Tech:**
+**Stack**
+
 `n8n` `Ollama` `LLM` `RAG` `MongoDB Atlas Vector Search`
 
 ---
 
-### 👁️ Computer Vision Projects
+## 👁️ Computer Vision
 
-Projects involving object detection, tracking, pose estimation, and image processing.
+> Computer vision experiments involving object detection, tracking and pose estimation.
 
-**Tech:**
+**Stack**
 
 `Python` `YOLOv8` `OpenCV` `Raspberry Pi`
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=piriya365&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=piriya365&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=piriya365&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piriya365&layout=compact&hide_border=true&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=piriya365&theme=tokyonight&hide_border=true"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=piriya365&theme=tokyonight&hide_border=true"/>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/piriya365/piriya365/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Activity
+# 📈 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=piriya365&theme=tokyo-night&hide_border=true"
-    width="95%"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piriya365&theme=tokyo-night&hide_border=true&area=true"/>
 
-## 🌱 Currently Learning
-
-<p align="center">
-
-`Next.js` • `NestJS` • `TypeScript` • `Tailwind CSS` • `AI Agents` • `RAG`
-
-</p>
+</div>
 
 ---
 
-## 💡 Development Philosophy
+# 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-**Learn → Build → Test → Improve → Repeat**
+<img src="https://raw.githubusercontent.com/piriya365/piriya365/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=120&section=footer" />
-</p>
+# 🌱 Currently Learning
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Piriya Inkhan</i>
-</p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/AI%20Agents-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+### Build.
+
+### Break.
+
+### Learn.
+
+### Improve.
+
+### Repeat. 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:0f172a&height=120&section=footer" width="100%"/>
+
+<br/>
+
+**Thanks for visiting my profile!**
+
+<br/>
+
+<i>Made with ❤️ by Piriya Inkhan</i>
+
+</div>
