@@ -23,8 +23,8 @@ Open to fullstack development projects.
 | **Backend** | Node.js · NestJS · Laravel · Django |
 | **Languages** | TypeScript · JavaScript · Python · PHP · Java · Kotlin · C/C++ · C# |
 | **Data** | PostgreSQL · MySQL · MongoDB · Firebase |
-| **AI / ML** | RAG · Vector Search · Ollama · LLM-as-a-Judge · YOLOv8 · OpenCV · scikit-learn |
-| **Tools** | Git · Docker · Linux · Postman |
+| **AI / ML** | RAG · Vector Search · Ollama · LLM-as-a-Judge · YOLOv8/YOLOv11 · OpenCV · scikit-learn |
+| **Tools** | Git/Git LFS · Docker · Postman |
 
 <p>
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,nodejs,nestjs,laravel,django,python,mongodb,mysql,firebase,docker,linux&perline=15"/>
@@ -47,11 +47,3 @@ Object detection, tracking and pose estimation running on Raspberry Pi.
 ## Currently Learning
 
 Next.js · NestJS · TypeScript · AI Agents · RAG
-
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=piriya365&show_icons=true&hide_border=true&theme=tokyonight"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piriya365&layout=compact&hide_border=true&theme=tokyonight"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piriya365&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
