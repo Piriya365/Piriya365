@@ -27,7 +27,7 @@ Open to fullstack development projects.
 | **Tools** | Git/Git LFS · Docker · Postman |
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,nodejs,nestjs,laravel,django,python,mongodb,mysql,firebase,docker,linux&perline=15"/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,nodejs,nestjs,laravel,django,python,mongodb,mysql,firebase,docker&perline=15"/>
 </p>
 
 ## Featured Projects
